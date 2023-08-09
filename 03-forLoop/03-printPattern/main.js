@@ -11,6 +11,7 @@ for (i = 0; i <= row_num; i++) {
 console.log(result);
 
 console.log("\n");
+
 ///// Multiple line /////
 
 console.log("Multiple Line Solution");
